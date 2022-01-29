@@ -1,4 +1,4 @@
-# react-protected-routes-v5
+# react-protected-routes-v6
 
 - Implemented protected routes in react.
 - ` react-router-dom ` version `6.2.1`
